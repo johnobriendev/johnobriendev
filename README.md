@@ -1,4 +1,11 @@
-## Hi there 👋
+## John O'Brien
+
+- 🔭 I’m currently working on applying to jobs
+- 🌱 I’m currently learning PostgreSQL and Typescript!
+
+check out my [Music Website](https://johnobrienguitar.com/)
+
+
 
 <!--
 **johnobriendev/johnobriendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
