@@ -3,7 +3,11 @@
 - 🔭 I’m currently working on applying to jobs
 - 🌱 I’m currently learning PostgreSQL and Typescript!
 
+check out my [Portfolio](https://johnobriendev.com/)
+
 check out my [Music Website](https://johnobrienguitar.com/)
+
+
 
 
 
