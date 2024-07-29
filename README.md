@@ -1,7 +1,7 @@
 ## John O'Brien
 
 - 🔭 I’m currently working on applying to jobs
-- 🌱 I’m currently learning PostgreSQL and Typescript!
+- 🌱 I’m currently learning Typescript!
 
 check out my [Portfolio](https://johnobriendev.com/)
 
