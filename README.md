@@ -5,7 +5,7 @@
 
 check out my [Portfolio](https://johnobriendev.com/)
 
-check out my [Music Website](https://johnobrienguitar.com/)
+I'm a musician - check out my [Music Website](https://johnobrienguitar.com/)
 
 
 
