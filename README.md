@@ -1,6 +1,6 @@
 ## John O'Brien
 
-- 🔭 I’m currently working on applying to jobs
+- 🔭 I’m currently looking for jobs!
 - 🌱 I’m currently learning Typescript!
 
 check out my [Portfolio](https://johnobriendev.com/)
