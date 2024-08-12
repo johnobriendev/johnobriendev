@@ -1,7 +1,7 @@
 ## John O'Brien
 
 - 🔭 I’m currently looking for jobs!
-- 🌱 I’m currently learning Typescript and Docker!
+- 🌱 I’m currently learning more about SQL databases!
 
 check out my [Portfolio](https://johnobriendev.com/)
 
