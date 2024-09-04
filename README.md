@@ -1,7 +1,7 @@
 ## John O'Brien
 
 - 🔭 I’m currently looking for jobs!
-- 🌱 I’m currently learning more about SQL databases!
+- 🌱 I’m also working on my biggest project to date, Cello, which is a clone of the popular site, Trello.
 
 check out my [Portfolio](https://johnobriendev.com/)
 
