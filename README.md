@@ -1,5 +1,5 @@
 ## John O'Brien
-
+Take a look at my newest app, [Tremendo](https://tremendo.pro), a project management and team collaboration tool.
 
 check out my [Portfolio](https://johnobriendev.com/)
 
