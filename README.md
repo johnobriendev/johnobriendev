@@ -6,6 +6,7 @@ check out my [Portfolio](https://johnobriendev.com/)
 I'm a musician - check out my [Music Website](https://johnobrienguitar.com/)
 
 About me:
+
 I'm a guitar player turned software developer. When I'm not coding I love to drink mate, write music, and play disc golf!!
 
 
