@@ -8,7 +8,7 @@ I'm a musician - check out my [Music Website](https://johnobrienguitar.com/)
 
 When I'm not coding I love to drink mate, write music, and play disc golf!!
 
-- 🔭 I’m currently working on the CI/CD pipeline for Tremendo!
+- 🔭 I’m currently building a payment microservice for my music website.
 - 🌱 I’m currently learning Typescript!
 
 
