@@ -5,11 +5,12 @@ check out my [Portfolio](https://johnobriendev.com/)
 
 I'm a musician - check out my [Music Website](https://johnobrienguitar.com/)
 
+If you're a guitar player too, check out my chord building app! [ChordBuilder](https://chordbuilder.netlify.app/)
+
 
 When I'm not coding I love to drink mate, write music, and play disc golf!!
 
-- 🔭 I’m currently building a payment microservice for my music website.
-- 🌱 I’m currently learning Typescript!
+
 
 
 
