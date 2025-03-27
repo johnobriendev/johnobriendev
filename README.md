@@ -1,7 +1,7 @@
 ## John O'Brien
 Here are some apps I've built, you can find the code in my pinned repositories
 
-[Tremendo](https://tremendo.pro) - a project management and team collaboration tool. You can create an account and organize your projects in Kanban boards.
+[Tremendo](https://tremendo.pro) - a project management and team collaboration tool. You can create an account, organize your projects in Kanban boards, and invite other users to colloborate on them.
 
 [ChordBuilder](https://chordbuilder.netlify.app/) - a chord sheet building app I built for guitar players and educators. (Bass players can use it too!)
 
