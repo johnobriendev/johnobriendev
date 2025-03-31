@@ -14,8 +14,6 @@ I'm a musician - check out my [Music Website](https://johnobrienguitar.com/)
 
 When I'm not coding I love to drink mate, write music, and play disc golf!!
 
-- 🔭 I’m currently working on a personal score keeping and statistic tracking app for disc golf called freeDisc!
-- 🌱 I’m currently learning Typescript!
 - 📫 How to reach me: find me on [LinkedIn](https://www.linkedin.com/in/johnobriendev/)
 
 
