@@ -1,13 +1,15 @@
 ## John O'Brien
 Here are some apps I've built, you can find the code in my pinned repositories
 
+[Esque](https://esque.click) A teams project management app with role based permissions, kanban and list views, pagination, and undo/redo functionality.
+
 [Learn the Notes](https://learnthenotes.netlify.app/) - an interactive guitar app for learning the notes on the fretboard. It has sections on triads and scales for further learning.
 
 [ChordBuilder](https://chordbuilder.netlify.app/) - a chord sheet building app I built for guitar players and educators. (Bass players can use it too!)
 
 [Tremendo](https://tremendo.pro) - a project management and team collaboration tool. You can create an account, organize your projects in Kanban boards, and invite other users to colloborate on them.
 
-[Notionesque](https://notionesque.netlify.app/) - another task manager with list and kanban views. This one saves your info to local storage so an account isn't needed.
+
 
 
 check out my [Portfolio](https://johnobriendev.com/)
