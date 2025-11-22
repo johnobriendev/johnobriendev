@@ -1,14 +1,11 @@
 ## John O'Brien
 Here are some apps I've built, you can find the code in my pinned repositories
 
-[Esque](https://esque.click) A teams project management app with role based permissions, kanban and list views, pagination, and undo/redo functionality.
+[Esque](https://esque.click) A project management/teams app.
 
-[You Can Learn Guitar](https://youcanlearnguitar.com) - an interactive guitar app for learning the notes on the fretboard. It has sections on triads and scales for further learning.
+[You Can Learn Guitar](https://youcanlearnguitar.com) - Guitar Education site with interactive learning tools.
 
-[ChordBuilder](https://chordbuilder.netlify.app/) - a chord sheet building app I built for guitar players and educators. (Bass players can use it too!)
-
-[Tremendo](https://tremendo.pro) - a project management and team collaboration tool. You can create an account, organize your projects in Kanban boards, and invite other users to colloborate on them.
-
+[ChordBuilder](https://chordbuilder.netlify.app/) - a chord sheet building app for guitar players and educators.
 
 
 
