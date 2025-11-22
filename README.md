@@ -3,7 +3,7 @@ Here are some apps I've built, you can find the code in my pinned repositories
 
 [Esque](https://esque.click) A teams project management app with role based permissions, kanban and list views, pagination, and undo/redo functionality.
 
-[You CAN Learn the Notes](https://youcanlearnthenotes.netlify.app/) - an interactive guitar app for learning the notes on the fretboard. It has sections on triads and scales for further learning.
+[You Can Learn Guitar](https://youcanlearnguitar.com) - an interactive guitar app for learning the notes on the fretboard. It has sections on triads and scales for further learning.
 
 [ChordBuilder](https://chordbuilder.netlify.app/) - a chord sheet building app I built for guitar players and educators. (Bass players can use it too!)
 
