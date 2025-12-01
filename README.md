@@ -11,7 +11,7 @@ Here are some apps I've built, you can find the code in my pinned repositories
 
 check out my [Portfolio](https://johnobriendev.com/)
 
-I'm a musician - check out my [Music Website](https://johnobrienguitar.com/)
+
 
 When I'm not coding I love to drink mate, write music, and play disc golf!!
 
