@@ -9,7 +9,7 @@ Here are some apps I've built, you can find the code in my pinned repositories
 
 
 
-check out my [Portfolio](https://johnobriendev.com/)
+
 
 
 
