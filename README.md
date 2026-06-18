@@ -1,8 +1,6 @@
 ## John O'Brien
 Here are some apps I've built, you can find the code in my pinned repositories
 
-[Esque](https://esque.click) A project management/teams app.
-
 [You Can Learn Guitar](https://youcanlearnguitar.com) - Guitar Education site with interactive learning tools.
 
 [ChordBuilder](https://chordbuilder.netlify.app/) - a chord sheet building app for guitar players and educators.
