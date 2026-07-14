@@ -5,8 +5,7 @@ Here are some apps I've built, you can find the code in my pinned repositories
 
 [ChordBuilder](https://chordbuilder.netlify.app/) - a chord sheet building app for guitar players and educators.
 
-
-
+[Esque](https://esque-esque.netlify.app/) - a project management/teams dashboard
 
 
 
